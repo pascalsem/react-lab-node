@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pascalsem/react-labs-backend/issues"
   },
-  "homepage": "https://github.com/pascalsem/react-labs-backend#readme"
+  "homepage": "https://github.com/pascalsem/react-labs-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
